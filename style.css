@@ -25,6 +25,9 @@ body {
     /* evenly space the links */
     list-style: none;
     /* remove the bullet points */
-
+    margin: 10;
+    /* remove any default margin */
+    padding: 0;
+    /* remove any default padding */
 
 }
