@@ -23,6 +23,8 @@ body {
     /* create a flexbox layout */
     justify-content: space-between;
     /* evenly space the links */
+    list-style: none;
+    /* remove the bullet points */
 
 
 }
