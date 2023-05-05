@@ -37,9 +37,11 @@ body {
 .nav li a {
     color: #fff;
     /*set the text color*/
-
     display: block;
     /*block; make the links take up the full width of their container*/
     /*Side-note- more study on display and block*/
     text-decoration: none;
+    /*remove the underline from the links */
+    font-weight: bold;
+    /*add some boldness to the links */
 }
