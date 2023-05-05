@@ -35,6 +35,9 @@ body {
 /* Side-note. Need more study on  margin and padding*/
 
 .nav li a {
-    color: #fff
-        /*set the text color*/
+    color: #fff;
+    /*set the text color*/
+
+    display: block;
+    /*block; make the links take up the full width of their container*/
 }
