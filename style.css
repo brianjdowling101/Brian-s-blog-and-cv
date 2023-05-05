@@ -33,3 +33,8 @@ body {
 }
 
 /* Side-note. Need more study on  margin and padding*/
+
+.nav li a {
+    color: #fff
+        /*set the text color*/
+}
