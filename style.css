@@ -4,6 +4,7 @@ body {
     background-color: rgb(255, 255, 255);
     /* Set the background color to white */
     margin: 0;
+
 }
 
 /* Style the navigation bar */
@@ -15,6 +16,7 @@ body {
     background-color: #333;
     /* set the background color */
     position: fixed;
+    z-index: 1;
 
     /* fix the position at the top of the screen */
     top: 0;
@@ -70,10 +72,22 @@ body {
 #home {
     width: 100vw;
     height: 100vh;
+    position: relative;
 
 }
 
 .myphoto {
     width: 100%;
     height: 100%;
+}
+
+.text {
+    font-size: larger;
+    color: aquamarine;
+    text-align: auto;
+    position: absolute;
+    left: 0;
+    top: 50vh;
+    width: 100%;
+
 }
