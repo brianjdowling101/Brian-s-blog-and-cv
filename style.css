@@ -3,6 +3,7 @@ body {
     /* Set the text color to black */
     background-color: rgb(255, 255, 255);
     /* Set the background color to white */
+    margin: 0;
 }
 
 /* Style the navigation bar */
