@@ -89,5 +89,42 @@ body {
     left: 0;
     top: 50vh;
     width: 100%;
+}
 
+.context {
+    display: flex;
+    width: 87%;
+    margin: auto;
+}
+
+.context p {
+    font-size: 18px;
+    color: #000000;
+    line-height: 32px;
+}
+
+.context h1 {
+    font-size: 25px;
+    color: #000000;
+    line-height: 25px;
+    margin-right: 5%;
+}
+
+.project-context {
+    width: 33%;
+}
+
+.project-context img {
+    width: 100%;
+}
+
+.project-context h1 {
+    color: #000000;
+    font-size: 20px;
+}
+
+.box {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
 }
